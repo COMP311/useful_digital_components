@@ -75,7 +75,7 @@ The splitter is configured as follows:
   <img src="https://i.imgur.com/QvnfEZB.png">
 </p>
 
-The input is 32-bit, so we set "Input Splitting" to 32, which creates the blue input dot labeled 0-31 on the splitter. For four groups of 8 bits, we set "Output Splitting" to "8,8,8,8". This creates four red output dots labeled 24-31, 16-23, 8-15, and 0-7 on the splitter. Lastly, all outputs are 8-bit.
+The input is 32-bit, so we set "Input Splitting" to 32, which creates the blue input dot labeled 0-31 on the splitter. For four groups of 8 bits, we set "Output Splitting" to "8,8,8,8". This creates four red output dots labeled 24-31, 16-23, 8-15, and 0-7 on the splitter. To see more details about the syntax of the "Input Splitting" and "Output Splitting" fields, right click a splitter/merger and click "Help". Lastly, all outputs are 8-bit.
 
 ### Ungraded exercise
 
